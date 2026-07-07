@@ -6,7 +6,8 @@ VisionX AI is an AI-powered computer vision assistant designed to help visually 
 
 ## Team Members
 
-(To be added)
+two members added one is still left
+
 
 ## Technologies
 
