@@ -1,4 +1,4 @@
-# VisionX AI
+# VisionX AI - An AI powered assistant for visually impaired people.
 
 ## Overview
 
