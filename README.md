@@ -6,7 +6,7 @@ VisionX AI is an AI-powered computer vision assistant designed to help visually 
 
 ## Team Members
 
-two members added one is still left
+all members added
 
 
 ## Technologies
@@ -15,7 +15,7 @@ two members added one is still left
 - OpenCV
 - YOLO
 - Streamlit
-- OpenAI / Gemini API
+- Gemini API / hugging face
 - GitHub
 
 Status:
